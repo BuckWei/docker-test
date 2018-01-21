@@ -1,2 +1,2 @@
 FROM nginx
-RUN echo '<h1>Hello, Buckwei!</h1>' > /usr/share/nginx/html/index.html
+RUN echo '<h1>Hello, Buck Wei!</h1>' > /usr/share/nginx/html/index.html
